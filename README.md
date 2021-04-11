@@ -2,7 +2,7 @@
 - 👀 I’m interested in App development and want to develop my coding skills
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on any project.
-- Rank at HackerRank: 74801
+-     Rank at HackerRank: 74801
 
 
 
